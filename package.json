@@ -1,0 +1,22 @@
+{
+  "name": "joker-9",
+  "version": "0.0.1",
+  "description": "working on workflow process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borikokeny/envir-9.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Bori Kokeny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borikokeny/envir-9/issues"
+  },
+  "homepage": "https://github.com/borikokeny/envir-9#readme"
+}
