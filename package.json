@@ -1,6 +1,6 @@
 {
   "name": "joker-9",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "working on workflow process",
   "type": "module",
   "main": "index.js",
